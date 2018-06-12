@@ -1,4 +1,4 @@
-# CFGGameConfigurationSyntax
+# CFGKamailioConfigurationSyntax
 tmLanguage definition for syntax highlighting in Sublime Text
 
 # Install
