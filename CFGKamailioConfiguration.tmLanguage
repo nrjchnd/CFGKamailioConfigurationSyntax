@@ -7,7 +7,7 @@
 		<string>cfg</string>
 	</array>
 	<key>name</key>
-	<string>CFG Game Configuration</string>
+	<string>CFG Kamailio Configuration</string>
 	<key>patterns</key>
 	<array>
 		<dict>
