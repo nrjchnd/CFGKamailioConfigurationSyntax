@@ -1,6 +1,6 @@
 # [PackageDev] target_format: plist, ext: tmLanguage
 ---
-name: CFG Game Configuration
+name: CFG Kamailio Configuration
 scopeName: source.cfg
 fileTypes: [cfg]
 uuid: 6f9ed479-bf11-476a-8f6a-8b013f808b01
